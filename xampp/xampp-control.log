@@ -1,0 +1,146 @@
+오후 5:08:15  [main] 	Initializing Control Panel
+오후 5:08:15  [main] 	Windows Version:  Enterprise  64-bit
+오후 5:08:15  [main] 	XAMPP Version: 8.2.0
+오후 5:08:15  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:08:15  [main] 	Running with Administrator rights - good!
+오후 5:08:15  [main] 	XAMPP Installation Directory: "d:\xampp\"
+오후 5:08:15  [main] 	Checking for prerequisites
+오후 5:08:15  [main] 	All prerequisites found
+오후 5:08:15  [main] 	Initializing Modules
+오후 5:08:15  [main] 	The FileZilla module is disabled
+오후 5:08:15  [main] 	The Mercury module is disabled
+오후 5:08:15  [main] 	The Tomcat module is disabled
+오후 5:08:15  [main] 	Starting Check-Timer
+오후 5:08:15  [main] 	Control Panel Ready
+오후 5:08:20  [Apache] 	Attempting to start Apache service...
+오후 5:08:21  [Apache] 	Status change detected: running
+오후 5:08:30  [mysql] 	Installing service...
+오후 5:08:31  [mysql] 	Successful!
+오후 5:08:33  [mysql] 	Attempting to start MySQL service...
+오후 5:08:33  [mysql] 	Status change detected: running
+오후 5:24:08  [main] 	Deinitializing Modules
+오후 5:24:08  [main] 	Deinitializing Control Panel
+
+오후 5:26:24  [main] 	Initializing Control Panel
+오후 5:26:24  [main] 	Windows Version:  Enterprise  64-bit
+오후 5:26:24  [main] 	XAMPP Version: 8.2.0
+오후 5:26:24  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:26:24  [main] 	Running with Administrator rights - good!
+오후 5:26:24  [main] 	XAMPP Installation Directory: "d:\hyproject\xampp\"
+오후 5:26:24  [main] 	Checking for prerequisites
+오후 5:26:24  [main] 	All prerequisites found
+오후 5:26:24  [main] 	Initializing Modules
+오후 5:26:24  [Apache] 	Apache Service detected with wrong path
+오후 5:26:24  [Apache] 	Change XAMPP Apache and Control Panel settings or
+오후 5:26:24  [Apache] 	Uninstall/disable the other service manually first
+오후 5:26:24  [Apache] 	Found Path: "D:\xampp\apache\bin\httpd.exe" -k runservice
+오후 5:26:24  [Apache] 	Expected Path: "d:\hyproject\xampp\apache\bin\httpd.exe" -k runservice
+오후 5:26:24  [mysql] 	MySQL Service detected with wrong path
+오후 5:26:24  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+오후 5:26:24  [mysql] 	Uninstall/disable the other service manually first
+오후 5:26:24  [mysql] 	Found Path: D:\xampp\mysql\bin\mysqld.exe --defaults-file=d:\xampp\mysql\bin\my.ini mysql
+오후 5:26:24  [mysql] 	Expected Path: d:\hyproject\xampp\mysql\bin\mysqld.exe --defaults-file=d:\hyproject\xampp\mysql\bin\my.ini mysql
+오후 5:26:24  [main] 	The FileZilla module is disabled
+오후 5:26:24  [main] 	The Mercury module is disabled
+오후 5:26:24  [main] 	The Tomcat module is disabled
+오후 5:26:24  [main] 	Starting Check-Timer
+오후 5:26:24  [main] 	Control Panel Ready
+오후 5:26:26  [Apache] 	Attempting to start Apache service...
+오후 5:26:27  [mysql] 	Attempting to start MySQL service...
+오후 5:26:40  [Apache] 	Attempting to start Apache service...
+오후 5:26:52  [Apache] 	Uninstalling service...
+오후 5:26:53  [Apache] 	Successful!
+오후 5:26:54  [mysql] 	Uninstalling service...
+오후 5:26:55  [mysql] 	Successful!
+오후 5:26:56  [Apache] 	Installing service...
+오후 5:26:57  [Apache] 	Attempting to start Apache app...
+오후 5:26:57  [Apache] 	Successful!
+오후 5:27:04  [Apache] 	Attempting to start Apache service...
+오후 5:28:14  [Apache] 	Attempting to start Apache service...
+오후 5:29:55  [Apache] 	Attempting to start Apache service...
+오후 5:31:10  [Apache] 	Uninstalling service...
+오후 5:31:11  [Apache] 	Successful!
+오후 5:31:15  [main] 	Deinitializing Modules
+오후 5:31:15  [main] 	Deinitializing Control Panel
+
+오후 5:31:24  [main] 	Initializing Control Panel
+오후 5:31:24  [main] 	Windows Version:  Enterprise  64-bit
+오후 5:31:24  [main] 	XAMPP Version: 8.2.0
+오후 5:31:24  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:31:24  [main] 	Running with Administrator rights - good!
+오후 5:31:24  [main] 	XAMPP Installation Directory: "d:\hyproject\xampp\"
+오후 5:31:24  [main] 	Checking for prerequisites
+오후 5:31:24  [main] 	All prerequisites found
+오후 5:31:24  [main] 	Initializing Modules
+오후 5:31:24  [main] 	The FileZilla module is disabled
+오후 5:31:24  [main] 	The Mercury module is disabled
+오후 5:31:24  [main] 	The Tomcat module is disabled
+오후 5:31:24  [main] 	Starting Check-Timer
+오후 5:31:24  [main] 	Control Panel Ready
+오후 5:31:27  [Apache] 	Installing service...
+오후 5:31:28  [Apache] 	Successful!
+오후 5:31:29  [Apache] 	Attempting to start Apache service...
+오후 5:31:30  [Apache] 	Status change detected: running
+오후 5:31:31  [Apache] 	Status change detected: stopped
+오후 5:31:31  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 5:31:31  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 5:31:31  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:31:31  [Apache] 	Press the Logs button to view error logs and check
+오후 5:31:31  [Apache] 	the Windows Event Viewer for more clues
+오후 5:31:31  [Apache] 	If you need more help, copy and post this
+오후 5:31:31  [Apache] 	entire log window on the forums
+오후 5:32:37  [main] 	Executing "d:\hyproject\xampp\"
+오후 5:32:42  [main] 	Executing "services.msc"
+오후 5:36:23  [Apache] 	Attempting to start Apache service...
+오후 5:36:29  [Apache] 	Uninstalling service...
+오후 5:36:30  [Apache] 	Successful!
+오후 5:36:32  [main] 	Deinitializing Modules
+오후 5:36:32  [main] 	Deinitializing Control Panel
+
+오후 5:36:40  [main] 	Initializing Control Panel
+오후 5:36:40  [main] 	Windows Version:  Enterprise  64-bit
+오후 5:36:40  [main] 	XAMPP Version: 8.2.0
+오후 5:36:40  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:36:40  [main] 	Running with Administrator rights - good!
+오후 5:36:40  [main] 	XAMPP Installation Directory: "d:\hyproject\xampp\"
+오후 5:36:40  [main] 	Checking for prerequisites
+오후 5:36:40  [main] 	All prerequisites found
+오후 5:36:40  [main] 	Initializing Modules
+오후 5:36:40  [main] 	The FileZilla module is disabled
+오후 5:36:40  [main] 	The Mercury module is disabled
+오후 5:36:40  [main] 	The Tomcat module is disabled
+오후 5:36:40  [main] 	Starting Check-Timer
+오후 5:36:40  [main] 	Control Panel Ready
+오후 5:36:43  [Apache] 	Installing service...
+오후 5:36:44  [Apache] 	Successful!
+오후 5:36:45  [mysql] 	Installing service...
+오후 5:36:46  [mysql] 	Successful!
+오후 5:36:46  [Apache] 	Attempting to start Apache service...
+오후 5:37:17  [Apache] 	Attempting to start Apache service...
+오후 5:38:07  [Apache] 	Attempting to start Apache service...
+오후 5:40:13  [Apache] 	Attempting to start Apache service...
+오후 5:40:20  [main] 	Deinitializing Modules
+오후 5:40:20  [main] 	Deinitializing Control Panel
+
+오후 5:40:48  [main] 	Initializing Control Panel
+오후 5:40:48  [main] 	Windows Version:  Enterprise  64-bit
+오후 5:40:48  [main] 	XAMPP Version: 8.2.0
+오후 5:40:48  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:40:48  [main] 	Running with Administrator rights - good!
+오후 5:40:48  [main] 	XAMPP Installation Directory: "d:\hyproject\xampp\"
+오후 5:40:48  [main] 	Checking for prerequisites
+오후 5:40:48  [main] 	All prerequisites found
+오후 5:40:48  [main] 	Initializing Modules
+오후 5:40:48  [main] 	The FileZilla module is disabled
+오후 5:40:48  [main] 	The Mercury module is disabled
+오후 5:40:48  [main] 	The Tomcat module is disabled
+오후 5:40:48  [main] 	Starting Check-Timer
+오후 5:40:48  [main] 	Control Panel Ready
+오후 5:40:49  [Apache] 	Attempting to start Apache service...
+오후 5:42:02  [Apache] 	Attempting to start Apache service...
+오후 5:42:03  [Apache] 	Status change detected: running
+오후 5:42:05  [mysql] 	Attempting to start MySQL service...
+오후 5:42:05  [mysql] 	Status change detected: running
+오후 6:48:27  [main] 	Deinitializing Modules
+오후 6:48:27  [main] 	Deinitializing Control Panel
+

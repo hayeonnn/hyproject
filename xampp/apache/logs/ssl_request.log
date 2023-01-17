@@ -1,0 +1,10 @@
+[17/Jan/2023:17:10:04 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard HTTP/1.1" 336
+[17/Jan/2023:17:10:04 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/ HTTP/1.1" 5186
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/stylesheets/normalize.css HTTP/1.1" 6876
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/stylesheets/all.css HTTP/1.1" 406998
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/javascripts/modernizr.js HTTP/1.1" 51365
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/javascripts/all.js HTTP/1.1" 188385
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/xampp-logo.svg HTTP/1.1" 5427
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/fastly-logo.png HTTP/1.1" 1770
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/social-icons.png HTTP/1.1" 3361
+[17/Jan/2023:17:10:05 +0900] ::1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/favicon.png HTTP/1.1" 2508
