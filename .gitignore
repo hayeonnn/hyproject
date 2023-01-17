@@ -1,0 +1,57 @@
+# Created by https://www.toptal.com/developers/gitignore/api/windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/windows
+
+####xampp####
+anonymous/
+apache/
+cgi-bin/
+contrib/
+img/
+install/
+licenses/
+locale/
+mailoutput/
+mailtodisk/
+mysql/
+php/
+src/
+tmp/
+webdav/
+*.bat
+*.exe
+*.ini
+*.dat
+*.log
+*.md
+dashboard/
+php-8.2.1-nts-Win32-vs16-x64/
+webalizer/
+xampp/htdocs/xampp/

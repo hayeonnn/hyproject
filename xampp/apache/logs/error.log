@@ -67,3 +67,28 @@
 [Tue Jan 17 18:39:15.390696 2023] [php:error] [pid 12980:tid 2104] [client ::1:54485] script 'D:/hyproject/xampp/htdocs/ascension/login.php' not found or unable to stat, referer: http://localhost/ascension/login.php
 [Tue Jan 17 18:39:15.396553 2023] [php:error] [pid 12980:tid 2104] [client ::1:54485] script 'D:/hyproject/xampp/htdocs/ascension/login.php' not found or unable to stat, referer: http://localhost/ascension/login.php
 [Tue Jan 17 18:48:32.922913 2023] [mpm_winnt:crit] [pid 12980:tid 688] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Jan 17 19:52:31.417902 2023] [ssl:warn] [pid 8660:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 17 19:52:31.629695 2023] [core:warn] [pid 8660:tid 680] AH00098: pid file D:/hyproject/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 17 19:52:31.635551 2023] [ssl:warn] [pid 8660:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 17 19:52:31.799518 2023] [mpm_winnt:notice] [pid 8660:tid 680] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0 configured -- resuming normal operations
+[Tue Jan 17 19:52:31.799518 2023] [mpm_winnt:notice] [pid 8660:tid 680] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Jan 17 19:52:31.799518 2023] [core:notice] [pid 8660:tid 680] AH00094: Command line: 'D:\\hyproject\\xampp\\apache\\bin\\httpd.exe -d D:/hyproject/xampp/apache'
+[Tue Jan 17 19:52:31.816110 2023] [mpm_winnt:notice] [pid 8660:tid 680] AH00418: Parent: Created child process 14640
+[Tue Jan 17 19:52:32.479790 2023] [ssl:warn] [pid 14640:tid 688] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 17 19:52:32.654914 2023] [ssl:warn] [pid 14640:tid 688] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 17 19:52:32.745257 2023] [mpm_winnt:notice] [pid 14640:tid 688] AH00354: Child: Starting 150 worker threads.
+[Tue Jan 17 20:23:49.508398 2023] [core:error] [pid 14640:tid 2108] (20024)The given path is misformatted or contained invalid characters: [client ::1:57322] AH00127: Cannot map GET /ascension/d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:31:50.852073 2023] [php:error] [pid 14640:tid 2128] [client ::1:57653] script 'D:/hyproject/xampp/htdocs/ascension/login.php' not found or unable to stat
+[Tue Jan 17 20:35:48.972700 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57702] AH00127: Cannot map GET /D:/hyproject HTTP/1.1 to file
+[Tue Jan 17 20:36:34.980733 2023] [core:error] [pid 14640:tid 2120] (20023)The given path was above the root path: [client ::1:57714] AH00127: Cannot map GET /D:/hyproject HTTP/1.1 to file
+[Tue Jan 17 20:36:41.640058 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57723] AH00127: Cannot map GET /D:/hyproject HTTP/1.1 to file
+[Tue Jan 17 20:37:03.163124 2023] [core:error] [pid 14640:tid 2120] (20023)The given path was above the root path: [client ::1:57727] AH00127: Cannot map GET /d:/hyproject/xampp/htdocs/ascension/member HTTP/1.1 to file
+[Tue Jan 17 20:38:12.904654 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57744] AH00127: Cannot map GET /D:/hyproject/d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:39:03.006304 2023] [core:error] [pid 14640:tid 2120] (20023)The given path was above the root path: [client ::1:57745] AH00127: Cannot map GET /D:/hyproject/d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:39:38.637268 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57758] AH00127: Cannot map GET /D:/hyproject/d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:40:57.005527 2023] [core:error] [pid 14640:tid 2120] (20023)The given path was above the root path: [client ::1:57831] AH00127: Cannot map GET /D:/hyproject/d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:41:22.826226 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57832] AH00127: Cannot map GET /D:/hyproject HTTP/1.1 to file
+[Tue Jan 17 20:43:18.843319 2023] [core:error] [pid 14640:tid 2120] (20023)The given path was above the root path: [client ::1:57876] AH00127: Cannot map GET /d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:44:01.545500 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57882] AH00127: Cannot map GET /d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 20:47:24.520747 2023] [core:error] [pid 14640:tid 2100] (20023)The given path was above the root path: [client ::1:57993] AH00127: Cannot map GET /d:/hyproject/xampp/htdocs/ascension HTTP/1.1 to file
+[Tue Jan 17 21:28:18.695375 2023] [core:error] [pid 14640:tid 2120] (20025)The given path contained wildcard characters: [client ::1:58667] AH00036: access to /**D:/hyproject**/xampp/htdocs/ascension/index.php failed (filesystem path 'D:/hyproject/xampp/htdocs/**D:')
